@@ -1,16 +1,3 @@
-# """
-# 1. insert new employee ✅
-# 2. update email id of employee ✅
-# 3. delete employee on behalf of eid✅
-# 4. search employee ✅
-# 5. search according to dept no.✅
-# 6. show all employees ✅
-# 7. exit
-# choice-
-
-# """
-
-
 import sqlite3 as dbms
 import csv
 
